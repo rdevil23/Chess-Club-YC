@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Golos Text';
+  src: local('Golos Text Medium'), local('GolosText-Medium'),
+    url('GolosText-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Golos Text';
+  src: local('Golos Text DemiBold'), local('GolosText-DemiBold'),
+    url('GolosText-DemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Golos Text';
+  src: local('Golos Text Bold'), local('GolosText-Bold'),
+    url('GolosText-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Golos Text';
+  src: local('Golos Text Regular'), local('GolosText-Regular'),
+    url('GolosText-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather Regular'), local('Merriweather-Regular'),
+    url('Merriweather-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat Medium'), local('Montserrat-Medium'),
+    url('Montserrat-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
